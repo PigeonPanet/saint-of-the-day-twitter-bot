@@ -8,7 +8,8 @@ export class AppController {
   constructor(private readonly appService: AppService) {}
 
   // @Cron(CronExpression.EVERY_SECOND)
-  @Cron(CronExpression.EVERY_MINUTE)
+  // @Cron(CronExpression.EVERY_MINUTE)
+  @Cron(CronExpression.EVERY_DAY_AT_10AM)
   async handleCron() {
     const date = new Date();
     const d = date.getDate();
