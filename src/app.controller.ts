@@ -24,10 +24,10 @@ export class AppController {
         const strippedString = saint.text.replace(/(<([^>]+)>)/gi, '');
         const decoded = decode(strippedString);
         firstTweet = firstTweet + ' \n \n ⤵️⤵️⤵️';
-        thread = this.appService.splitText(decoded, 200);
+        thread = this.appService.splitText(decoded, 280);
       } else if (saint.summary) {
         firstTweet = firstTweet + ' \n \n ⤵️⤵️⤵️';
-        thread = this.appService.splitText(saint.summary, 200);
+        thread = this.appService.splitText(saint.summary, 280);
       }
       thread.unshift(firstTweet);
       await this.tweetThread(thread);
