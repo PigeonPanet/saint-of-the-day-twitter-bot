@@ -18,13 +18,15 @@ export class AppController {
     const saints = await this.appService.getSaint(d, m);
     const saint = saints.find((e) => e.text || e.summary);
     if (saint) {
-      const firstTweet = `Ajourd'hui nous fêtons: ${saint.name}`;
+      let firstTweet = `Aujourd'hui le ${d}/${m} nous fêtons: ${saint.name}`;
       let thread: string[] = [];
       if (saint.text) {
         const strippedString = saint.text.replace(/(<([^>]+)>)/gi, '');
         const decoded = decode(strippedString);
+        firstTweet = firstTweet + ' \n \n ⤵️⤵️⤵️';
         thread = this.appService.splitText(decoded, 200);
       } else if (saint.summary) {
+        firstTweet = firstTweet + ' \n \n ⤵️⤵️⤵️';
         thread = this.appService.splitText(saint.summary, 200);
       }
       thread.unshift(firstTweet);
