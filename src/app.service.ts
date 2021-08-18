@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 import Twitter from 'twitter-lite';
@@ -9,15 +10,18 @@ export class AppService {
   public client: Twitter = null;
 
   constructor(
+    private readonly configService: ConfigService,
     @InjectModel(Saint.name) private saintModel: Model<SaintDocument>,
   ) {
     this.client = new Twitter({
       version: '1.1', // version "1.1" is the default (change for other subdomains)
       extension: false, // version "1.1" is the default (change for other subdomains)
-      consumer_key: '', // from Twitter.
-      consumer_secret: '', // from Twitter.
-      access_token_key: '', // from your User (oauth_token)
-      access_token_secret: '', // from your User (oauth_token_secret)
+      consumer_key: configService.get<string>('twitter.consumer_key'), // from Twitter.
+      consumer_secret: configService.get<string>('twitter.consumer_secret'), // from Twitter.
+      access_token_key: configService.get<string>('twitter.access_token_key'), // from your User (oauth_token)
+      access_token_secret: configService.get<string>(
+        'twitter.access_token_secret',
+      ), // from your User (oauth_token_secret)
     });
   }
 
