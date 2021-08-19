@@ -25,14 +25,15 @@ export class AppService {
     });
   }
 
-  sendTweet(url: string, body: any) {
+  sendTweet(url: string, body: any): Promise<any> {
     return this.client.post(url, body);
   }
+
   zeroPad(num: number, places = 2): string {
     return String(num).padStart(places, '0');
   }
-  async getSaint(day: number, month: number) {
-    const date = `${this.zeroPad(month)}/${this.zeroPad(day)}`;
+
+  async getSaint(date: string): Promise<SaintDocument[]> {
     return this.saintModel.find({ date }).exec();
   }
 

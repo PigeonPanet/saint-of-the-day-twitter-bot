@@ -7,15 +7,15 @@ import { decode } from 'html-entities';
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
-  // @Cron(CronExpression.EVERY_SECOND)
   // @Cron(CronExpression.EVERY_MINUTE)
-  @Cron(CronExpression.EVERY_DAY_AT_10AM)
+  @Cron(CronExpression.EVERY_DAY_AT_6AM)
   async handleCron() {
-    const date = new Date();
-    const d = date.getDate();
-    const m = date.getMonth() + 1;
+    const currentDate = new Date();
+    const d = this.appService.zeroPad(currentDate.getDate());
+    const m = this.appService.zeroPad(currentDate.getMonth() + 1);
+    const date = `${m}/${d}`;
 
-    const saints = await this.appService.getSaint(d, m);
+    const saints = await this.appService.getSaint(date);
     const saint = saints.find((e) => e.text || e.summary);
     if (saint) {
       let firstTweet = `Aujourd'hui le ${d}/${m} nous fêtons: ${saint.name}`;
