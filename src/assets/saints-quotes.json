@@ -1,0 +1,2779 @@
+[{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99990"
+  },
+  "categories": [
+    "Education ",
+    " Aider"
+  ],
+  "text": "L'éducation est plus qu'un métier, c'est une mission, qui consiste à aider chaque personne à reconnaître ce qu'elle a d'irremplaçable et d'unique, afin qu'elle grandisse et s'épanouisse.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99991"
+  },
+  "categories": [
+    "Erreur ",
+    " Humain"
+  ],
+  "text": "Se tromper est humain, persister dans son erreur est diabolique.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99992"
+  },
+  "categories": [
+    "Solidarite ",
+    " Racisme"
+  ],
+  "text": "La condamnation du racisme, la protection des minorités, l'assistance aux réfugiés, la mobilisation de la solidarité internationale envers les plus nécessiteux, ne sont que des applications cohérentes du principe de la citoyenneté mondiale.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99993"
+  },
+  "categories": [
+    "Homme ",
+    " Racisme"
+  ],
+  "text": "Toute espèce de racisme conduit inévitablement à l'écrasement de l'homme.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99994"
+  },
+  "categories": [
+    "Patience ",
+    " Monde"
+  ],
+  "text": "On a besoin de patience avec tout le monde, mais particulièrement avec soi-même.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99995"
+  },
+  "categories": [
+    "Famille ",
+    " Avenir"
+  ],
+  "text": "Veillez par tous les moyens sur cette souveraineté fondamentale que possède chaque nation en vertu de sa propre culture. Protégez-là comme la prunelle de vos yeux pour l'avenir de la grande famille humaine.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99996"
+  },
+  "categories": [
+    "Bonheur ",
+    " Desirer"
+  ],
+  "text": "Le bonheur, c'est de continuer à désirer ce qu'on possède.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99997"
+  },
+  "categories": [
+    "Amour ",
+    " Aimer"
+  ],
+  "text": "La mesure de l'amour, c'est d'aimer sans mesure.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99998"
+  },
+  "categories": [
+    "Chemin ",
+    " Mauvais"
+  ],
+  "text": "Il vaut mieux suivre le bon chemin en boitant que le mauvais d'un pas ferme.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f99999"
+  },
+  "categories": [
+    "Amour ",
+    " Valeur"
+  ],
+  "text": "Toute existence tire sa valeur de la qualité de l'amour : \"Dis-moi quel est ton amour et je te dirai qui tu es\".",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f9999a"
+  },
+  "categories": [
+    "Amour ",
+    " Beaute"
+  ],
+  "text": "Quand l'amour grandit en toi, la beauté fait de même. Car l'amour est la beauté de l'âme.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f9999b"
+  },
+  "categories": [
+    "Homme ",
+    " Chance"
+  ],
+  "text": "Pour l'homme courageux, chance et malchance sont comme sa main droite et sa main gauche. Il tire parti de l'une comme de l'autre.",
+  "lng": "fr",
+  "name": "Sainte Catherine De Sienne",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f9999c"
+  },
+  "categories": [
+    "Frere ",
+    " Pourquoi"
+  ],
+  "text": "Pourquoi voyez-vous une paille dans l'oeil de votre frère, tandis que vous ne voyez pas une poutre dans la vôtre ?",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f9999d"
+  },
+  "categories": [
+    "Passion ",
+    " Moins"
+  ],
+  "text": "Celui qui se perd dans sa passion perd moins que celui qui perd sa passion.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f9999e"
+  },
+  "categories": [
+    "Bien ",
+    " Bruit"
+  ],
+  "text": "Le bruit ne fait pas de bien, et le bien ne fait pas de bruit.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f9999f"
+  },
+  "categories": [
+    "Dieu ",
+    " Priere"
+  ],
+  "text": "Quand nous nous mettons à prier, nous avons l'impression que nous prenons l'initiative. Mais la prière est toujours une initiative de Dieu en nous.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a0"
+  },
+  "categories": [
+    "Manque ",
+    " Bien"
+  ],
+  "text": "Les riches : vous voyez bien ce qu'ils ont, vous ne voyez pas ce qui leur manque.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a1"
+  },
+  "categories": [
+    "Amour ",
+    " Dieu"
+  ],
+  "text": "La mesure d'aimer Dieu, c'est Dieu même ; la mesure de cet amour, c'est de l'aimer sans mesure.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a2"
+  },
+  "categories": [
+    "Jour ",
+    " Lui"
+  ],
+  "text": "Ne vous mettez pas en souci du lendemain, car le lendemain aura souci de lui-même ; à chaque jour suffit sa peine.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a3"
+  },
+  "categories": [
+    "Vie ",
+    " Dieu"
+  ],
+  "text": "Ce n'est pas un sacrifice de quitter une pauvre vie dans laquelle on éprouve tant de difficultés pour appartenir à Dieu !",
+  "lng": "fr",
+  "name": "Bernadette Soubirous",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a4"
+  },
+  "categories": [
+    "Honte ",
+    " Honteux"
+  ],
+  "text": "Il est honteux d'être sans honte.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a5"
+  },
+  "categories": [
+    "Amour ",
+    " Homme"
+  ],
+  "text": "L'homme est la perfection de l'Univers, l'esprit est la perfection de l'homme, l'amour est la perfection de l'esprit, et la charité est la perfection de l'amour.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a6"
+  },
+  "categories": [
+    "Priere"
+  ],
+  "text": "Si vous ne trouvez pas une prière qui vous convienne, inventez-la.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a7"
+  },
+  "categories": [
+    "Medias ",
+    " Opinion"
+  ],
+  "text": "Les médias sont des instruments dont se sert le péché pour imposer à l'opinion publique des modèles de comportements aberrants.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a8"
+  },
+  "categories": [
+    "Dieu ",
+    " Mal"
+  ],
+  "text": "Chrétiens et Musulmans, nous nous sommes généralement mal compris, et quelquefois, dans le passé, nous nous sommes opposés et même épuisés en polémiques et en guerres. Je crois que Dieu nous invite, aujourd'hui, à changer nos vieilles habitudes",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999a9"
+  },
+  "categories": [
+    "Briller ",
+    " Beau"
+  ],
+  "text": "Il est plus beau d'éclairer que de briller seulement.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999aa"
+  },
+  "categories": [
+    "Patience ",
+    " Mere"
+  ],
+  "text": "La patience est la mère de la charité.",
+  "lng": "fr",
+  "name": "Sainte Catherine De Sienne",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999ab"
+  },
+  "categories": [
+    "Puissance ",
+    " Acte"
+  ],
+  "text": "L'acte n'est pas limité et multiplié que s'il est reçu dans une puissance.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999ac"
+  },
+  "categories": [
+    "Amour ",
+    " Racines"
+  ],
+  "text": "Laisse les racines de l'amour pousser en toi, car de ces racines ne peuvent fleurir que de bonnes choses.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999ad"
+  },
+  "categories": [
+    "Ame ",
+    " Priere"
+  ],
+  "text": "La prière est le plus grand rempart de l'âme.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999ae"
+  },
+  "categories": [
+    "Amour ",
+    " Vie"
+  ],
+  "text": "Au soir de cette vie, vous serez jugés sur l'amour.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999af"
+  },
+  "categories": [
+    "Pauvres ",
+    " Agir"
+  ],
+  "text": "La prétention qu'a le terrorisme d'agir au nom des pauvres est une flagrante imposture.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b0"
+  },
+  "categories": [
+    "Homme ",
+    " Erreurs"
+  ],
+  "text": "L'homme n'apprend vraiment qu'en reconnaissant ses propres erreurs.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b1"
+  },
+  "categories": [
+    "Amour ",
+    " Dieu"
+  ],
+  "text": "L'âme ne peut vivre sans amour, il lui faut toujours quelque chose à aimer puisque c'est par amour que Dieu l'a créée.",
+  "lng": "fr",
+  "name": "Sainte Catherine De Sienne",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b2"
+  },
+  "categories": [
+    "Verite ",
+    " Bien"
+  ],
+  "text": "Le but de la philosophie n'est pas de savoir ce que les hommes ont pensé, mais bien qu'elle est la vérité des choses.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b3"
+  },
+  "categories": [
+    "Curiosite ",
+    " Orgueil"
+  ],
+  "text": "Le premier degré de l'orgueil c'est la curiosité.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b4"
+  },
+  "categories": [
+    "Suis ",
+    " Etait"
+  ],
+  "text": "Elle n'est plus là où elle était, mais elle est maintenant partout où je suis.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b5"
+  },
+  "categories": [
+    "Abstinence ",
+    " Facile"
+  ],
+  "text": "L'abstinence totale est plus facile que la parfaite modération.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b6"
+  },
+  "categories": [
+    "Verite ",
+    " Pardon"
+  ],
+  "text": "L'homme qui pardonne ou qui demande pardon comprend qu'il y a une vérité plus grande que lui.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b7"
+  },
+  "categories": [
+    "Meditation ",
+    " Heure"
+  ],
+  "text": "Une demi-heure de méditation est essentielle sauf quand on est très occupé. Alors une heure est nécessaire.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b8"
+  },
+  "categories": [
+    "Monde ",
+    " Livre"
+  ],
+  "text": "Le monde est un livre et ceux qui ne voyagent pas n'en lisent qu'une page.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999b9"
+  },
+  "categories": [
+    "Amour ",
+    " Suis"
+  ],
+  "text": "C'est par amour que j'ai étudié, veillé des nuits entières et que je me suis épuisé.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999ba"
+  },
+  "categories": [
+    "Amour ",
+    " Monde"
+  ],
+  "text": "Le monde est né de l'amour, il est soutenu par l'amour, il va vers l'amour et il entre dans l'amour.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999bb"
+  },
+  "categories": [
+    "Politique ",
+    " Nature"
+  ],
+  "text": "La nature de l'homme veut qu'il soit un animal social et politique, vivant en collectivité.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999bc"
+  },
+  "categories": [
+    "Transmettre ",
+    " Autres"
+  ],
+  "text": "Il plus beau de transmettre aux autres ce qu'on a contemplé que de contempler seulement.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999bd"
+  },
+  "categories": [
+    "Dieu ",
+    " Homme"
+  ],
+  "text": "La question de l'existence de Dieu demeure intimement liée à celle de la finalité de l'existence même de l'homme.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999be"
+  },
+  "categories": [
+    "Autres ",
+    " Lui"
+  ],
+  "text": "Celui qui se croit supérieur aux autres a nécessairement meilleure opinion de lui-même que d'eux.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999bf"
+  },
+  "categories": [
+    "Vie ",
+    " Dieu"
+  ],
+  "text": "L'attitude de l'homme devant le mystère de Dieu détermine toute sa vie sociale et culturelle.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999c0"
+  },
+  "categories": [
+    "Dieu ",
+    " Priere"
+  ],
+  "text": "L'oraison du juste est la clef du ciel : sa prière y monte, et la pitié de Dieu en descend.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2242a20dc8a13f999c1"
+  },
+  "categories": [
+    "Verite ",
+    " Peur"
+  ],
+  "text": "\"N'ayez pas peur !\" De quoi faut-il ne pas avoir peur ? Avant tout de faire la vérité sur nous-mêmes.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c2"
+  },
+  "categories": [
+    "Science ",
+    " Patience"
+  ],
+  "text": "Dans le régime des âmes, il faut une tasse de science, un baril de prudence et un océan de patience.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c3"
+  },
+  "categories": [
+    "Homme ",
+    " Seul"
+  ],
+  "text": "Je crains l'homme d'un seul livre.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c4"
+  },
+  "categories": [
+    "Conscience ",
+    " Heureux"
+  ],
+  "text": "Heureux celui qui se préoccupe davantage d'avoir une conscience pure qu'une caisse pleine.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c5"
+  },
+  "categories": [
+    "Vie ",
+    " Pont"
+  ],
+  "text": "La vie est un pont, traverse-le, mais n'y fixe pas ta demeure.",
+  "lng": "fr",
+  "name": "Sainte Catherine De Sienne",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c6"
+  },
+  "categories": [
+    "Dieu ",
+    " Perfection"
+  ],
+  "text": "Ce qu'on retranche à la perfection des créatures, c'est à la perfection même de Dieu qu'on le retranche.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c7"
+  },
+  "categories": [
+    "Homme ",
+    " Bien"
+  ],
+  "text": "Une grande misère parmi les homme, c'est qu'ils savent si bien ce qui leur est dû et qu'ils sentent si peu ce qu'ils doivent aux autres.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c8"
+  },
+  "categories": [
+    "Temps ",
+    " Personne"
+  ],
+  "text": "Qu'est-ce-que le temps ? Si personne ne me le demande, je le sais. Si je veux l'expliquer à qui me le demande, je ne le sais plus.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999c9"
+  },
+  "categories": [
+    "Sensualite ",
+    " Arrive"
+  ],
+  "text": "Il arrive qu'au milieu des exercices spirituels s'élèvent des mouvements de sensualité...",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ca"
+  },
+  "categories": [
+    "Dieu ",
+    " Coeur"
+  ],
+  "text": "Si nous revenons à notre propre coeur, nous trouvons Dieu au fond.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999cb"
+  },
+  "categories": [
+    "Vie ",
+    " Bonheur"
+  ],
+  "text": "Une vie de bonheur, n'est-ce pas la chose que tout le monde veut et que personne au monde ne refuse ? Mais où l'a-t-on connue pour la vouloir tant ? Où l'a-t-on vue pour en être si épris ?",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999cc"
+  },
+  "categories": [
+    "Moi ",
+    " Mechant"
+  ],
+  "text": "Vous avez appris qu'il a été dit : Oeil pour oeil, dent pour dent. Mais moi, je vous dis de ne pas résister au méchant. Si quelqu'un te frappe sur la joue droite, présente-lui l'autre aussi.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999cd"
+  },
+  "categories": [
+    "Vie ",
+    " Sauver"
+  ],
+  "text": "Celui qui cherche à sauver sa vie la perdra.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ce"
+  },
+  "categories": [
+    "Amour ",
+    " Dieu"
+  ],
+  "text": "Dieu ne communique jamais la sagesse mystique sans y joindre l'amour par lequel elle se répand.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999cf"
+  },
+  "categories": [
+    "Bien ",
+    " Raison"
+  ],
+  "text": "Le bien et l'être sont identiques dans la réalité ; ils ne diffèrent que selon la raison.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d0"
+  },
+  "categories": [
+    "Reste ",
+    " Charite"
+  ],
+  "text": "Si la charité vient à manquer, à quoi sert tout le reste ?",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d1"
+  },
+  "categories": [
+    "Intelligence ",
+    " Foi"
+  ],
+  "text": "Crois et tu comprendras ; la foi précède, l'intelligence suit.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d2"
+  },
+  "categories": [
+    "Dis ",
+    " Faites"
+  ],
+  "text": "Faites ce que je dis, mais ne faites pas ce que je fais.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d3"
+  },
+  "categories": [
+    "Dieu ",
+    " Recompense"
+  ],
+  "text": "La récompense de Dieu, c'est Dieu lui-même... Demandez autre chose si vous trouvez quelque chose de mieux.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d4"
+  },
+  "categories": [
+    "Beaute ",
+    " Unite"
+  ],
+  "text": "L'unité est la forme de toute beauté.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d5"
+  },
+  "categories": [
+    "Mer ",
+    " Entrer"
+  ],
+  "text": "Choisis d'entrer dans la mer par les petits ruisseaux.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d6"
+  },
+  "categories": [
+    "Suis ",
+    " Car"
+  ],
+  "text": "Si je me trompe, je suis. Car celui qui n'est pas ne peut être trompé.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d7"
+  },
+  "categories": [
+    "Amour ",
+    " Responsabilite"
+  ],
+  "text": "Il n'y a pas d'amour sans responsabilité.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d8"
+  },
+  "categories": [
+    "Nature ",
+    " Habitude"
+  ],
+  "text": "L'habitude est une seconde nature.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999d9"
+  },
+  "categories": [
+    "Esprit ",
+    " Tentation"
+  ],
+  "text": "Veillez et priez, afin que vous n'entriez point en tentation : car l'esprit est prompt, mais la chair est faible.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999da"
+  },
+  "categories": [
+    "Verite ",
+    " Coeur"
+  ],
+  "text": "Ne t'en vas pas au dehors, rentre en toi-même ; au coeur de la créature habite la vérité.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999db"
+  },
+  "categories": [
+    "Personne ",
+    " Juge"
+  ],
+  "text": "Personne n'est juge en sa propre cause.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999dc"
+  },
+  "categories": [
+    "Homme ",
+    " Yeux"
+  ],
+  "text": "Si un homme veut être sûr de son chemin, qu'il ferme les yeux et marche dans l'obscurité.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999dd"
+  },
+  "categories": [
+    "Trompe ",
+    " Existe"
+  ],
+  "text": "Si je me trompe, j'existe.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999de"
+  },
+  "categories": [
+    "Dieu ",
+    " Guerre"
+  ],
+  "text": "Sachez-le donc : Dieu hait la paix de ceux qu'il a destiné à la guerre !",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999df"
+  },
+  "categories": [
+    "Dieu ",
+    " Aimer"
+  ],
+  "text": "Il faut aimer Dieu de tout son coeur, et son prochain comme soi-même.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e0"
+  },
+  "categories": [
+    "Bien ",
+    " Aime"
+  ],
+  "text": "Lorsque l'on aime, ou bien l'on n'a point de peine, ou bien l'on aime jusqu'à sa peine.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e1"
+  },
+  "categories": [
+    "Pardon ",
+    " Coeur"
+  ],
+  "text": "Le pardon est une option du coeur qui va contre l'instinct spontané de rendre le mal pour le mal.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e2"
+  },
+  "categories": [
+    "Diable ",
+    " Mal"
+  ],
+  "text": "Aboyer, solliciter au mal, tout cela est dans les moyens du diable ; mais il ne peut mordre que qui veut être mordu.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e3"
+  },
+  "categories": [
+    "Amour ",
+    " Corps"
+  ],
+  "text": "L'amour-propre ne meurt jamais qu'avec notre corps.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e4"
+  },
+  "categories": [
+    "Dieu ",
+    " Mieux"
+  ],
+  "text": "Dieu entend mieux un sanglot qu'un appel.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e5"
+  },
+  "categories": [
+    "Maison ",
+    " Patrie"
+  ],
+  "text": "Un prophète n'est méprisé que dans sa patrie et dans sa maison.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e6"
+  },
+  "categories": [
+    "Famille ",
+    " Personne"
+  ],
+  "text": "L'appartenance à la famille humaine confère à toute personne une sorte de citoyenneté mondiale, lui donnant des droits et des devoirs, les hommes étant unis par une communauté d'origine et de destinée suprême",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e7"
+  },
+  "categories": [
+    "Verite ",
+    " Opinion"
+  ],
+  "text": "La vérité n'est pas toujours conforme à l'opinion de la majorité.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e8"
+  },
+  "categories": [
+    "Vent ",
+    " Voix"
+  ],
+  "text": "Le vent souffle où il veut ; tu entends sa voix, mais tu ne sais ni d'où il vient ni où il va.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999e9"
+  },
+  "categories": [
+    "Aime ",
+    " Veux"
+  ],
+  "text": "Aime, et fais ce que tu veux.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ea"
+  },
+  "categories": [
+    "Heureux ",
+    " Sage"
+  ],
+  "text": "Nul n'est sage à moins d'être heureux.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999eb"
+  },
+  "categories": [
+    "Aime ",
+    " Fais"
+  ],
+  "text": "Aime et fais ce que tu voudras.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ec"
+  },
+  "categories": [
+    "Dieu ",
+    " Homme"
+  ],
+  "text": "Dieu a créé l'homme intelligent et libre.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ed"
+  },
+  "categories": [
+    "Bien ",
+    " Soi"
+  ],
+  "text": "Faire le bien ne va pas de soi.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ee"
+  },
+  "categories": [
+    "Verite ",
+    " Ame"
+  ],
+  "text": "La vérité est la chasteté de l'âme.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999ef"
+  },
+  "categories": [
+    "Sacrifice ",
+    " Marie"
+  ],
+  "text": "Le sacrifice de Marie est une participation spécifique à la révélation de la Miséricorde.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999f0"
+  },
+  "categories": [
+    "Joies ",
+    " Valent"
+  ],
+  "text": "Nous valons ce que valent nos joies.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999f1"
+  },
+  "categories": [
+    "Ainsi ",
+    " Seront"
+  ],
+  "text": "Ainsi les derniers seront les premiers et les premiers seront les derniers.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999f2"
+  },
+  "categories": [
+    "Vanite ",
+    " Inquietude"
+  ],
+  "text": "L'inquiétude est toujours vanité.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2262a20dc8a13f999f3"
+  },
+  "categories": [
+    "Pouvoir ",
+    " Volonte"
+  ],
+  "text": "La fraternité bannit la volonté de puissance, et le service la tentation du pouvoir.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999f4"
+  },
+  "categories": [
+    "Autres ",
+    " Aimez"
+  ],
+  "text": "Aimez-vous les uns les autres comme je vous ai aimés.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999f5"
+  },
+  "categories": [
+    "Loi ",
+    " Necessite"
+  ],
+  "text": "La nécessité ne connaît pas de loi.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999f6"
+  },
+  "categories": [
+    "Nature ",
+    " Lois"
+  ],
+  "text": "Les miracles ne sont pas en contradiction avec les lois de la nature, mais avec ce que nous savons de ces lois.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999f7"
+  },
+  "categories": [
+    "Comprendre ",
+    " Crois"
+  ],
+  "text": "Crois pour comprendre.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999f8"
+  },
+  "categories": [
+    "Dieu ",
+    " Etrange"
+  ],
+  "text": "Qu'y a-t-il d'étrange à ce que tu ne comprennes pas ? Si tu comprends, ce n'est pas Dieu !",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999f9"
+  },
+  "categories": [
+    "Bien ",
+    " Savoir"
+  ],
+  "text": "Penser savoir ce qu'on ne sait pas, c'est une sottise expresse ; vouloir faire le savant de ce qu'on connaît bien que l'on ne sait pas, c'est une vanité insupportable.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999fa"
+  },
+  "categories": [
+    "Charite ",
+    " Lait"
+  ],
+  "text": "Si la charité est un lait, la dévotion en est la crème.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999fb"
+  },
+  "categories": [
+    "Bien ",
+    " Action"
+  ],
+  "text": "Nul ne fait bien une action, quoique bonne, s'il ne la fait volontairement.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999fc"
+  },
+  "categories": [
+    "Dieu ",
+    " Toi"
+  ],
+  "text": "Quand tu penses à Dieu, tout ce qui peut se présenter à toi en forme corporelle, chasse-le, expulse-le, répudie-le, fuis-le.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999fd"
+  },
+  "categories": [
+    "Deux ",
+    " Respirer"
+  ],
+  "text": "L'Europe doit respirer avec ses deux poumons : celui de l'est et celui de l'ouest.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999fe"
+  },
+  "categories": [
+    "Monde ",
+    " Pauvres"
+  ],
+  "text": "Le monde n'est pas partagé entre les bons et les méchants mais entre les riches et les pauvres.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f999ff"
+  },
+  "categories": [
+    "Dieu ",
+    " Creation"
+  ],
+  "text": "Que faisait Dieu avant la Création ? - De toute éternité, il préparait d'épouvantables supplices pour celui qui poserait cette question.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a00"
+  },
+  "categories": [
+    "Lui ",
+    " Pierre"
+  ],
+  "text": "Que celui de vous qui est sans péché lui jette le premier la pierre.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a01"
+  },
+  "categories": [
+    "Corps ",
+    " Oeil"
+  ],
+  "text": "La lampe du corps, c'est l'oeil.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a02"
+  },
+  "categories": [
+    "Chercher ",
+    " Encore"
+  ],
+  "text": "Cherchons comme cherchent ceux qui doivent trouver et trouvons comme trouvent ceux qui doivent chercher encore. Car il est écrit : celui qui est arrivé au terme ne fait que commencer.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a03"
+  },
+  "categories": [
+    "Nature ",
+    " Disparaitre"
+  ],
+  "text": "La grâce ne fait pas disparaître la nature mais l'achève.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a04"
+  },
+  "categories": [
+    "Ame ",
+    " Foi"
+  ],
+  "text": "La foi illumine avec ses ténèbres les ténèbres de l'âme.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a05"
+  },
+  "categories": [
+    "Verite ",
+    " Intelligence"
+  ],
+  "text": "La vérité est l'accord entre l'intelligence et les choses.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a06"
+  },
+  "categories": [
+    "Autres ",
+    " Pourquoi"
+  ],
+  "text": "Pourquoi ne pas agir envers les autres comme chacun voudrait que l'on agisse envers lui-même ?",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a07"
+  },
+  "categories": [
+    "Resistance ",
+    " Esprit"
+  ],
+  "text": "L'esprit commande le corps et le corps obéit. L'esprit se commande à lui-même et trouve de la résistance.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a08"
+  },
+  "categories": [
+    "Vivre ",
+    " Demain"
+  ],
+  "text": "Etudiez comme si vous deviez vivre toujours ; vivez comme si vous deviez mourir demain.",
+  "lng": "fr",
+  "name": "Saint Isidore De Séville",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a09"
+  },
+  "categories": [
+    "Amour ",
+    " Vie"
+  ],
+  "text": "Il n'y a pas de plus grand amour que de donner sa vie pour ses amis.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a0a"
+  },
+  "categories": [
+    "Homme ",
+    " Univers"
+  ],
+  "text": "Une seule pensée de l'homme vaut plus que l'univers tout entier.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a0b"
+  },
+  "categories": [
+    "Don ",
+    " Regardent"
+  ],
+  "text": "Il n'y a que les imparfaits qui regardent plus au don qu'au donateur.",
+  "lng": "fr",
+  "name": "Sainte Catherine De Sienne",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a0c"
+  },
+  "categories": [
+    "Main ",
+    " Votre"
+  ],
+  "text": "Lorsque vous faites l'aumône, que votre main gauche ne sache pas ce que fait votre main droite.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a0d"
+  },
+  "categories": [
+    "Vertu ",
+    " Confort"
+  ],
+  "text": "Il faut un minimum de confort pour pratiquer la vertu.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a0e"
+  },
+  "categories": [
+    "Triste ",
+    " Saint"
+  ],
+  "text": "Un saint triste est un triste saint.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a0f"
+  },
+  "categories": [
+    "Dieu ",
+    " Vite"
+  ],
+  "text": "Dieu perçoit un sanglot plus vite qu'un appel.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a10"
+  },
+  "categories": [
+    "Parfois ",
+    " Cruel"
+  ],
+  "text": "On peut être cruel en pardonnant, de même qu'on est parfois miséricordieux en punissant.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a11"
+  },
+  "categories": [
+    "Dieu ",
+    " Camp"
+  ],
+  "text": "Dieu est toujours dans le camp de ceux qui souffrent.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a12"
+  },
+  "categories": [
+    "Verite ",
+    " Frontiere"
+  ],
+  "text": "La vérité n'accepte pas d'être arrêtée par une quelconque frontière.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a13"
+  },
+  "categories": [
+    "Amour ",
+    " Vie"
+  ],
+  "text": "Personne n'a un plus grand amour que celui qui donne sa vie pour ses amis.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a14"
+  },
+  "categories": [
+    "Coeur ",
+    " Vaut"
+  ],
+  "text": "Vous valez ce que vaut votre coeur.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a15"
+  },
+  "categories": [
+    "Bonheur ",
+    " Desirer"
+  ],
+  "text": "Le bonheur, c'est de continuer à désirer ce que l'on possède.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a16"
+  },
+  "categories": [
+    "Liberte ",
+    " Coeurs"
+  ],
+  "text": "La liberté est le privilège des grands coeurs.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a17"
+  },
+  "categories": [
+    "Apprendre ",
+    " Chose"
+  ],
+  "text": "Il y a trois manières pour apprendre une chose : la meilleure manière est de la professer...",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a18"
+  },
+  "categories": [
+    "Amour ",
+    " Vie"
+  ],
+  "text": "Celui qui voudra sauver sa vie la perdra ; et celui qui perdra sa vie pour l'amour de moi la retrouvera.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a19"
+  },
+  "categories": [
+    "Dieu ",
+    " Pouvoir"
+  ],
+  "text": "Dieu, est un être dont on parle sans pouvoir rien en dire, et qui est supérieur à toutes les définitions.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a1a"
+  },
+  "categories": [
+    "Dieu ",
+    " Homme"
+  ],
+  "text": "Dieu perfectionne l'homme en se conformant à la mesure de l'homme.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a1b"
+  },
+  "categories": [
+    "Monde ",
+    " Patient"
+  ],
+  "text": "Soyez patient avec tout le monde, mais surtout avec vous-mêmes.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a1c"
+  },
+  "categories": [
+    "Moi ",
+    " Nul"
+  ],
+  "text": "Nul ne peut me nuire que moi-même.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a1d"
+  },
+  "categories": [
+    "Homme ",
+    " Interieur"
+  ],
+  "text": "Les mouvements de l'homme extérieur vous révèlent les changements survenus dans l'homme intérieur.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a1e"
+  },
+  "categories": [
+    "Lumiere ",
+    " Nature"
+  ],
+  "text": "Chaque homme, par sa nature même, possède innée en lui la lumière de la raison qui dirige ses actes vers sa fin.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a1f"
+  },
+  "categories": [
+    "Enfants ",
+    " Idoles"
+  ],
+  "text": "Petits enfants, gardez-vous des idoles !",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a20"
+  },
+  "categories": [
+    "Violence ",
+    " Difficulte"
+  ],
+  "text": "Je m'endormis, et à mon réveil trouvais que ma difficulté avait beaucoup perdu de sa violence.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a21"
+  },
+  "categories": [
+    "Demandez ",
+    " Cherchez"
+  ],
+  "text": "Demandez et l'on vous donnera ; cherchez et vous trouverez ; frappez et l'on vous ouvrira.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a22"
+  },
+  "categories": [
+    "Votre ",
+    " Prochain"
+  ],
+  "text": "Vous aimerez votre prochain comme vous-même.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a23"
+  },
+  "categories": [
+    "Ami ",
+    " Maitre"
+  ],
+  "text": "On ne fait qu'un avec son ami. On ne fait pas qu'un avec son maître.",
+  "lng": "fr",
+  "name": "Sainte Catherine De Sienne",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a24"
+  },
+  "categories": [
+    "Vrai"
+  ],
+  "text": "Est vrai ce qui est.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2272a20dc8a13f99a25"
+  },
+  "categories": [
+    "Dieu ",
+    " Paix"
+  ],
+  "text": "Heureux les artisans de paix, car ils seront appelés fils de Dieu !",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a26"
+  },
+  "categories": [
+    "Chef ",
+    " Seul"
+  ],
+  "text": "Le meilleur gouvernement est celui d'un seul chef.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a27"
+  },
+  "categories": [
+    "Coeur ",
+    " Tresor"
+  ],
+  "text": "Là où est votre trésor, là aussi sera votre coeur.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a28"
+  },
+  "categories": [
+    "Maison ",
+    " Ville"
+  ],
+  "text": "Tout royaume divisé contre lui-même est dévasté, et toute ville ou maison divisée contre elle-même ne peut subsister.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a29"
+  },
+  "categories": [
+    "Vie ",
+    " Chemin"
+  ],
+  "text": "La porte étroite et le chemin étroit mènent à la vie et il y en a peu qui le trouvent.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a2a"
+  },
+  "categories": [
+    "Femme ",
+    " Accidentel"
+  ],
+  "text": "La femme est un être occasionnel et accidentel.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a2b"
+  },
+  "categories": [
+    "Demons ",
+    " Nier"
+  ],
+  "text": "Les faits des démons Incubes ou Succubes sont si multiples qu'on ne saurait les nier sans imprudence.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a2c"
+  },
+  "categories": [
+    "Dieu ",
+    " Confiance"
+  ],
+  "text": "Votre oeil est-il méchant parce que celui de Dieu est bon ? En mettant en cette bonté une criminelle confiance, vous devenez impudent contre la sagesse et audacieux contre la puissance.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a2d"
+  },
+  "categories": [
+    "Mourir ",
+    " Parce"
+  ],
+  "text": "Nous naissons et nous mourons : nous naissons pour mourir, parce que nous commençons par mourir pour naître.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a2e"
+  },
+  "categories": [
+    "Homme ",
+    " Humain"
+  ],
+  "text": "Ce n'est qu'en se dépassant que l'homme est pleinement humain.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a2f"
+  },
+  "categories": [
+    "Dieu ",
+    " Homme"
+  ],
+  "text": "Faire l'expérience de Dieu reste toujours à la portée de chaque homme.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a30"
+  },
+  "categories": [
+    "Coeur ",
+    " Yeux"
+  ],
+  "text": "La mission des femmes est d'être dans la société actuelle témoin des valeurs essentielles qui ne peuvent se percevoir qu'avec les yeux du coeur.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a31"
+  },
+  "categories": [
+    "Sens ",
+    " Mon"
+  ],
+  "text": "Je ne m'attache pas obstinément à mon propre sens.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a32"
+  },
+  "categories": [
+    "Vie ",
+    " Rien"
+  ],
+  "text": "La chasteté est le lis des vertus et, dès cette vie, elle nous rend presque semblables aux anges. Rien n'est beau que par la pureté et la pureté des hommes c'est la chasteté.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a33"
+  },
+  "categories": [
+    "Dieu ",
+    " Hommes"
+  ],
+  "text": "Le royaume de Dieu est répandu sur toute la terre et les hommes ne le voient pas.",
+  "lng": "fr",
+  "name": "Saint Thomas",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a34"
+  },
+  "categories": [
+    "Autres ",
+    " Juge"
+  ],
+  "text": "Ne jugez point, afin de n'être point jugés, car on vous jugera comme vous avez jugé, et l'on se servira pour vous de la mesure dont vous mesurez les autres.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a35"
+  },
+  "categories": [
+    "Dieu ",
+    " Cesar"
+  ],
+  "text": "Rendez donc à César ce qui est à César et à Dieu ce qui est à Dieu.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a36"
+  },
+  "categories": [
+    "Aimer ",
+    " Bien"
+  ],
+  "text": "Quand on aime, ou bien l'on n'a point de peine, ou bien l'on aime jusqu'à aimer sa peine.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a37"
+  },
+  "categories": [
+    "Meilleur ",
+    " Entendre"
+  ],
+  "text": "Le meilleur de vos serviteurs est celui qui ne cherche pas à entendre de vous ce qu'il souhaite, mais à souhaiter ce qu'il a entendu.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a38"
+  },
+  "categories": [
+    "Vie ",
+    " Chemin"
+  ],
+  "text": "Entrez par la porte étroite, car la porte large et le chemin spacieux mènent à la perdition et il y en a beaucoup qui y entrent. Mais la porte étroite et le chemin étroit mènent à la vie et il y en a bien peu qui le trouvent.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a39"
+  },
+  "categories": [
+    "Corps ",
+    " Besoin"
+  ],
+  "text": "Les anges ont besoin qu'on leur suppose un corps. Non pour eux-mêmes, mais vis-à-vis de nous.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a3a"
+  },
+  "categories": [
+    "Dieu ",
+    " Mieux"
+  ],
+  "text": "Mieux vaut souffrir Dieu que faire des miracles.",
+  "lng": "fr",
+  "name": "Saint Jean De La Croix",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a3b"
+  },
+  "categories": [
+    "Perfection ",
+    " Mal"
+  ],
+  "text": "L'essence divine repose sur l'acte même qui transforme le principe du mal en perfection suprême.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a3c"
+  },
+  "categories": [
+    "Reputation ",
+    " Bonne"
+  ],
+  "text": "Veillez sur votre bonne réputation : ne la laissez ni noircir par des propos malséants, ni déchirer par des jugements défavorables.",
+  "lng": "fr",
+  "name": "Saint Isidore De Séville",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a3d"
+  },
+  "categories": [
+    "Homme ",
+    " Lui"
+  ],
+  "text": "L'homme est toujours le même : les systèmes qu'il crée sont toujours imparfaits, et d'autant plus imparfaits qu'il est sûr de lui.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a3e"
+  },
+  "categories": [
+    "Homme ",
+    " Monde"
+  ],
+  "text": "Un grand défi est proposé à l'homme : celui de perfectionner tout ce qui est créé, que ce soit lui-même ou le monde.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a3f"
+  },
+  "categories": [
+    "Dieu ",
+    " Verite"
+  ],
+  "text": "Qu'est-ce que l'Evangile ? C'est une magnifique justification du monde et de l'homme, parce que c'est la révélation de la vérité sur Dieu.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a40"
+  },
+  "categories": [
+    "Ame ",
+    " Foi"
+  ],
+  "text": "L'âme de votre âme, c'est la foi.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a41"
+  },
+  "categories": [
+    "Epee ",
+    " Rengaine"
+  ],
+  "text": "Rengaine ton épée : tous ceux qui useront de l'épée, périront par l'épée.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a42"
+  },
+  "categories": [
+    "Juger ",
+    " Equite"
+  ],
+  "text": "Cessez de juger sur l'apparence. Jugez avec équité.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a43"
+  },
+  "categories": [
+    "Ecrit"
+  ],
+  "text": "Ce qui est écrit est écrit.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a44"
+  },
+  "categories": [
+    "Commencement ",
+    " Etait"
+  ],
+  "text": "Au commencement était le Verbe.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a45"
+  },
+  "categories": [
+    "Enfants ",
+    " Car"
+  ],
+  "text": "Laissez les petits enfants et ne les empêchez pas, car le royaume des cieux est pour ceux qui leur ressemblent.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a46"
+  },
+  "categories": [
+    "Foi ",
+    " Montagnes"
+  ],
+  "text": "La foi transporte les montagnes.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a47"
+  },
+  "categories": [
+    "Beaucoup ",
+    " Peu"
+  ],
+  "text": "Il y beaucoup d'appelés, mais peu d'élus.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a48"
+  },
+  "categories": [
+    "Parole ",
+    " Pense"
+  ],
+  "text": "L'orateur pense et la parole suit.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a49"
+  },
+  "categories": [
+    "Dieu ",
+    " Homme"
+  ],
+  "text": "Que l'homme ne sépare pas ce que Dieu a uni.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a4a"
+  },
+  "categories": [
+    "Deux ",
+    " Autre"
+  ],
+  "text": "Si un aveugle conduit un autre aveugle, ils tomberont tous les deux dans un trou.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a4b"
+  },
+  "categories": [
+    "Dieu ",
+    " Argent"
+  ],
+  "text": "Nul ne peut servir deux maîtres : ou bien il haïra l'un et aimera l'autre, ou bien il s'attachera à l'un et ne tiendra aucun compte de l'autre. Vous ne pouvez servir Dieu et l'argent.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a4c"
+  },
+  "categories": [
+    "Desir ",
+    " Renommee"
+  ],
+  "text": "Le désir de la renommée tente même les esprits les plus nobles.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a4d"
+  },
+  "categories": [
+    "Heureux ",
+    " Ennemi"
+  ],
+  "text": "Heureux celui qui vous aime, qui aime son ami en vous et son ennemi à cause de vous.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a4e"
+  },
+  "categories": [
+    "Mort ",
+    " Enfant"
+  ],
+  "text": "Qui ne reculerait d'horreur et ne choisirait la mort, si on lui offrait le choix entre mourir et redevenir enfant !",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a4f"
+  },
+  "categories": [
+    "Arbre ",
+    " Sera"
+  ],
+  "text": "Prenez un arbre bon : son fruit sera bon ; prenez un arbre gâté : son fruit sera gâté. Car c'est au fruit qu'on reconnaît l'arbre.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a50"
+  },
+  "categories": [
+    "Tristesse ",
+    " Coeur"
+  ],
+  "text": "C'est le propre des orgueilleux d'aspirer toujours à la joie et d'éviter la tristesse, selon ce mot : le coeur des insensés est où la joie se trouve.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a51"
+  },
+  "categories": [
+    "Curiosite ",
+    " Commencement"
+  ],
+  "text": "Dans les degrés de l'orgueil, la curiosité revendique le premier, puisque nous trouvons en elle le commencement de tout péché.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a52"
+  },
+  "categories": [
+    "Dieu ",
+    " Moi"
+  ],
+  "text": "O Dieu ! Accordez-moi la chasteté, mais pas encore maintenant.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a53"
+  },
+  "categories": [
+    "Avez ",
+    " Recu"
+  ],
+  "text": "Vous avez reçu gratuitement, donnez gratuitement.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a54"
+  },
+  "categories": [
+    "Amour ",
+    " Vin"
+  ],
+  "text": "Fréquente avec amour la cellule, si tu veux être introduit dans le cellier à vin.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a55"
+  },
+  "categories": [
+    "Age ",
+    " Jeune"
+  ],
+  "text": "Plus j'avance en âge, plus les jeunes m'exhortent à rester jeune.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a56"
+  },
+  "categories": [
+    "Maladie ",
+    " Communisme"
+  ],
+  "text": "Le communisme en tant que système s'est révélé \"un remède plus dangereux que la maladie elle-même\".",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc2292a20dc8a13f99a57"
+  },
+  "categories": [
+    "Vent ",
+    " Porte"
+  ],
+  "text": "Ce sont les grands feux qui s'enflamment au vent ; mais les petits s'éteignent, si on ne les y porte à couvert.",
+  "lng": "fr",
+  "name": "Saint François De Sales",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a58"
+  },
+  "categories": [
+    "Verite ",
+    " Foi"
+  ],
+  "text": "Si nous résolvons les problèmes de la foi par seule voie d'autorité, nous posséderons certes la vérité mais dans une tête vide !",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a59"
+  },
+  "categories": [
+    "Arbre ",
+    " Mauvais"
+  ],
+  "text": "Un bon arbre ne peut porter de mauvais fruits, pas plus qu'un mauvais arbre n'en peut porter de bons.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a5a"
+  },
+  "categories": [
+    "Entendre ",
+    " Oreilles"
+  ],
+  "text": "Que celui qui a des oreilles pour entendre, entende !",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a5b"
+  },
+  "categories": [
+    "Sera ",
+    " Eleve"
+  ],
+  "text": "Quiconque s'élèvera sera abaissé, et quiconque s'abaissera sera élevé.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a5c"
+  },
+  "categories": [
+    "Jour ",
+    " Heure"
+  ],
+  "text": "Veillez donc, car vous ne savez ni le jour ni l'heure.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a5d"
+  },
+  "categories": [
+    "Pere ",
+    " Secret"
+  ],
+  "text": "Pour toi, quand tu fais l'aumône, que ta main gauche ignore ce que fait ta droite, en sorte que ton aumône demeure secrète ; et ton Père qui voit dans le secret te le revaudra.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a5e"
+  },
+  "categories": [
+    "Dieu ",
+    " Chameau"
+  ],
+  "text": "Il est plus aisé pour un chameau de passer par le trou d'une aiguille que pour un riche d'entrer dans le royaume de Dieu.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a5f"
+  },
+  "categories": [
+    "Bonheur ",
+    " Permissivite"
+  ],
+  "text": "La permissivité ne fait pas le bonheur.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a60"
+  },
+  "categories": [
+    "Amitie ",
+    " Personne"
+  ],
+  "text": "On ne connaît personne sinon par l'amitié.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a61"
+  },
+  "categories": [
+    "Enfer ",
+    " Ete"
+  ],
+  "text": "L'enfer a été fait pour les curieux.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a62"
+  },
+  "categories": [
+    "Mal ",
+    " Beaucoup"
+  ],
+  "text": "Beaucoup de biens ne se produiraient pas s'il n'y avait pas de mal dans les êtres.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a63"
+  },
+  "categories": [
+    "Lui ",
+    " Chacun"
+  ],
+  "text": "Que chacun devienne conjugal au-dedans de lui-même.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a64"
+  },
+  "categories": [
+    "Terre ",
+    " Lui"
+  ],
+  "text": "Vous êtes le sel de la terre ; mais le sel perd sa saveur, avec quoi la lui rendra-t-on ?",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a65"
+  },
+  "categories": [
+    "Choses ",
+    " Beaucoup"
+  ],
+  "text": "Les astrologues, pour beaucoup de choses, annoncent des choses vraies.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a66"
+  },
+  "categories": [
+    "Dieu ",
+    " Comment"
+  ],
+  "text": "Comment vous imaginer que Dieu consente jamais à ce qu'il ne veut pas et à ce qu'il peut empêcher ?",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a67"
+  },
+  "categories": [
+    "Raison ",
+    " Autre"
+  ],
+  "text": "Accéder à la béatitude : il n'y a pas d'autre raison de philosopher.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a68"
+  },
+  "categories": [
+    "Langue ",
+    " Main"
+  ],
+  "text": "Une langue adulatrice est plus acharnée qu'une main meurtrière.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a69"
+  },
+  "categories": [
+    "Esprit ",
+    " Vivifie"
+  ],
+  "text": "C'est l'esprit qui vivifie.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a6a"
+  },
+  "categories": [
+    "Rien ",
+    " Esprit"
+  ],
+  "text": "Comme pour l'esprit rien n'est trop grand, pour la bonté rien n'est trop petit.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a6b"
+  },
+  "categories": [
+    "Passe ",
+    " Chameau"
+  ],
+  "text": "Il est plus aisé qu'un chameau passe par le trou d'une aiguille qu'il ne l'est qu'un riche entre dans le royaume des cieux.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a6c"
+  },
+  "categories": [
+    "Arbre ",
+    " Fruits"
+  ],
+  "text": "On juge l'arbre à ses fruits.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a6d"
+  },
+  "categories": [
+    "Dieu ",
+    " Voir"
+  ],
+  "text": "A moins de naître d'en haut nul ne peut voir le royaume de Dieu.",
+  "lng": "fr",
+  "name": "Saint Jean",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a6e"
+  },
+  "categories": [
+    "Ni ",
+    " Memes"
+  ],
+  "text": "Les passions ne sont en elles-mêmes ni bonnes ni mauvaises.",
+  "lng": "fr",
+  "name": "Thomas D'Aquin",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a6f"
+  },
+  "categories": [
+    "Homme ",
+    " Lorsqu"
+  ],
+  "text": "Lorsqu'on se tue, c'est un homme qu'on tue.",
+  "lng": "fr",
+  "name": "Saint Augustin D'Hippone",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a70"
+  },
+  "categories": [],
+  "text": "Rempli de sagesse, doué d'une beauté parfaite, ne cherchez pas ce qui est au-dessus de vous, et ne scrutez pas des mystères plus forts que vous.",
+  "lng": "fr",
+  "name": "Bernard De Clairvaux",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a71"
+  },
+  "categories": [
+    "Humanite ",
+    " Parce"
+  ],
+  "text": "De quelles souffrances l'humanité n'est-elle pas affligée parce qu'elle ne sait pas se réconcilier !",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a72"
+  },
+  "categories": [
+    "Societe ",
+    " Eglise"
+  ],
+  "text": "L'Eglise n'a pas de modèle de société à proposer.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a73"
+  },
+  "categories": [
+    "Homme ",
+    " Faiblesse"
+  ],
+  "text": "L'homme ne cesse pas d'être grand, même dans sa faiblesse.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a74"
+  },
+  "categories": [
+    "Homme ",
+    " Bien"
+  ],
+  "text": "La voix de l'homme est bien incapable d'offrir autre chose que des perspectives terrestres.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a75"
+  },
+  "categories": [
+    "Moi ",
+    " Contre"
+  ],
+  "text": "Celui qui n'est pas avec moi est contre moi.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a76"
+  },
+  "categories": [
+    "Point ",
+    " Vos"
+  ],
+  "text": "Ne jetez point vos perles devant les pourceaux.",
+  "lng": "fr",
+  "name": "Saint Matthieu",
+  "displayed": false
+},{
+  "_id": {
+    "$oid": "611fc22a2a20dc8a13f99a77"
+  },
+  "categories": [
+    "Democratie ",
+    " Histoire"
+  ],
+  "text": "Une démocratie sans valeurs se transforme facilement en un totalitarisme déclaré ou sournois comme le montre l'histoire.",
+  "lng": "fr",
+  "name": "Jean-Paul II",
+  "displayed": false
+}]

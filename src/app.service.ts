@@ -1,18 +1,12 @@
 import { Injectable } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
-import { InjectModel } from '@nestjs/mongoose';
-import { Model } from 'mongoose';
 import Twitter from 'twitter-lite';
-import { Saint, SaintDocument } from './schemas/saints.schema';
 
 @Injectable()
 export class AppService {
   public client: Twitter = null;
 
-  constructor(
-    private readonly configService: ConfigService,
-    @InjectModel(Saint.name) private saintModel: Model<SaintDocument>,
-  ) {
+  constructor(private readonly configService: ConfigService) {
     this.client = new Twitter({
       version: '1.1', // version "1.1" is the default (change for other subdomains)
       extension: false, // version "1.1" is the default (change for other subdomains)
@@ -29,15 +23,23 @@ export class AppService {
     return this.client.post(url, body);
   }
 
+  async tweetThread(thread: string[]): Promise<void> {
+    let lastTweetID = '';
+    for (const status of thread) {
+      const tweet = await this.sendTweet('statuses/update.json', {
+        status: status,
+        in_reply_to_status_id: lastTweetID,
+        auto_populate_reply_metadata: true,
+      });
+      lastTweetID = tweet.id_str;
+    }
+  }
+
   zeroPad(num: number, places = 2): string {
     return String(num).padStart(places, '0');
   }
 
-  async getSaint(date: string): Promise<SaintDocument[]> {
-    return this.saintModel.find({ date }).exec();
-  }
-
-  splitText(text: string, limit: number): string[] {
+  splitText(text: string, limit = 280): string[] {
     const lines: string[] = [];
 
     while (text.length > limit) {

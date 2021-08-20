@@ -16,7 +16,8 @@ describe('AppController', () => {
 
   describe('root', () => {
     it('should return true', () => {
-      expect(appController.handleCron()).toBe(true);
+      expect(appController.cronSaintOfTheDay()).toBe(true);
+      expect(appController.cronQuote()).toBe(true);
     });
   });
 });
