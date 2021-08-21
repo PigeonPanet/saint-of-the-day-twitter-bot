@@ -13,8 +13,8 @@ export class AppController {
     private readonly quoteService: QuoteService,
   ) {}
 
-  // @Cron(CronExpression.EVERY_DAY_AT_6AM)
-  @Cron(CronExpression.EVERY_MINUTE)
+  // @Cron(CronExpression.EVERY_MINUTE)
+  @Cron(CronExpression.EVERY_DAY_AT_6AM)
   async cronSaintOfTheDay() {
     const currentDate = new Date();
     const d = this.appService.zeroPad(currentDate.getDate());
@@ -54,10 +54,10 @@ export class AppController {
   @Cron(CronExpression.EVERY_DAY_AT_6PM)
   async cronQuote(): Promise<boolean> {
     try {
-      // const quote = await this.quoteService.getQuoteOfTheDay();
-      // const tweet = `${quote.name}: ${quote.text}`;
-      // const thread = this.appService.splitText(tweet);
-      // await this.appService.makeThread(thread);
+      const quote = await this.quoteService.getQuoteOfTheDay();
+      const tweet = `${quote.name}: ${quote.text}`;
+      const thread = this.appService.splitText(tweet);
+      await this.appService.makeThread(thread);
     } catch (error) {
       console.log(error);
       return false;
