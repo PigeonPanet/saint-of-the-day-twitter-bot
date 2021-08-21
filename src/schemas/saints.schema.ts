@@ -10,11 +10,11 @@ export class Saint {
 
   @Prop(String) public lng: string;
   @Prop({ type: String }) public name: string;
-  @Prop(String) public summary?: string;
-  @Prop(String) public text?: string;
+  @Prop(String) public summary: string;
+  @Prop(String) public history: string;
+  @Prop(String) public image: string;
 }
 
 const SaintSchema = SchemaFactory.createForClass(Saint);
-// SaintSchema.index({ name: "text" })
 model(Saint.name, SaintSchema).createIndexes({ name: 'text' });
 export { SaintSchema };

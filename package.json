@@ -27,12 +27,11 @@
     "@nestjs/mongoose": "^8.0.1",
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/schedule": "^1.0.1",
-    "html-entities": "^2.3.2",
     "mongoose": "^5.13.7",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "twitter-lite": "^1.1.0"
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
