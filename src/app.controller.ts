@@ -67,7 +67,6 @@ Pour plus d'informations : https://evangeli.net/evangile/quoi-evangeli`,
           media: '',
         };
         thread.push(lastTweet);
-        console.log(thread);
         await this.twitterService.makeThread(thread);
         return true;
       }
