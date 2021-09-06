@@ -9,6 +9,8 @@ import { Saint, SaintSchema } from './schemas/saints.schema';
 import { Quote, QuoteSchema } from './schemas/quotes.schema';
 import { SaintService } from './services/saint/saint.service';
 import { QuoteService } from './services/quote/quote.service';
+import { HttpModule } from '@nestjs/axios';
+import { TwitterService } from './services/twitter/twitter.service';
 
 @Module({
   imports: [
@@ -21,8 +23,9 @@ import { QuoteService } from './services/quote/quote.service';
       { name: Saint.name, schema: SaintSchema },
       { name: Quote.name, schema: QuoteSchema },
     ]),
+    HttpModule,
   ],
   controllers: [AppController],
-  providers: [AppService, SaintService, QuoteService],
+  providers: [AppService, TwitterService, SaintService, QuoteService],
 })
 export class AppModule {}

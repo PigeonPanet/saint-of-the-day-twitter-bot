@@ -18,6 +18,7 @@ describe('AppController', () => {
     it('should return true', () => {
       expect(appController.cronSaintOfTheDay()).toBe(true);
       expect(appController.cronQuote()).toBe(true);
+      expect(appController.cronEvangileOfTheDay()).toBe(true);
     });
   });
 });
