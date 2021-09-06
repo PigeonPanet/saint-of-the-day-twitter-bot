@@ -62,9 +62,8 @@ export class AppController {
 
         thread.unshift(firstTweet);
         const lastTweet = {
-          status: `Les commentaires des évangiles ont été réalisé par de nombreux prêtres. 
-Pour les aider dans leurs missions faites un don sur leurs sites : https://evangeli.net/evangile/donations
-+ d'informations : https://evangeli.net/evangile/quoi-evangeli`,
+          status: `Les commentaires des évangiles ont été réalisé par de nombreux prêtres.
+Pour plus d'informations : https://evangeli.net/evangile/quoi-evangeli`,
           media: '',
         };
         thread.push(lastTweet);
