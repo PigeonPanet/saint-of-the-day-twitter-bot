@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "613ba772cd99d1379494aa8f"
+  },
+  "abbreviation": "TOB",
+  "language": "fr",
+  "name": "TOB",
+  "createdAt": {
+    "$date": "2021-09-10T18:44:02.462Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-10T18:44:02.462Z"
+  },
+  "__v": 0
+}]
