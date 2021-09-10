@@ -46,7 +46,9 @@ export class TwitterService {
               const verse = await this.appService.searchResultCommand(
                 msg.split(':'),
               );
-              await this.makeDirectMessage(recipient_id, verse);
+              if (verse) {
+                await this.makeDirectMessage(recipient_id, verse);
+              }
             } catch (error) {
               console.log(error);
             }

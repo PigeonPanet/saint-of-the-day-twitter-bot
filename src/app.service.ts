@@ -23,7 +23,7 @@ export class AppService {
   }
 
   async searchResultCommand(command: string[]): Promise<string> {
-    let text = 'Aucun résultat';
+    let text = '';
     switch (command[0].toLowerCase().trim()) {
       case 'verset':
         const verse = (
@@ -35,7 +35,7 @@ export class AppService {
           ? `"${verse.text}"` +
             ` \n \n ${verse.bookName} ${verse.chapterNbr}:${verse.number}
               \n \n Que Dieu te bénisse 🙏`
-          : text;
+          : 'Aucun résultat';
         return text;
 
       default:
