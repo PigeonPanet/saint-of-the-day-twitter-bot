@@ -3,13 +3,18 @@ import { ConfigService } from '@nestjs/config';
 import { readFileSync, statSync } from 'fs';
 import { join } from 'path';
 import { Thread } from 'src/core/interface/thread';
-import Twitter from 'twitter';
+import Twitter from 'twitter-lite';
+import { Autohook } from 'twitter-autohook';
+import { AppService } from 'src/app.service';
 
 @Injectable()
 export class TwitterService {
   public client: Twitter = null;
 
-  constructor(private readonly configService: ConfigService) {
+  constructor(
+    private readonly configService: ConfigService,
+    private readonly appService: AppService,
+  ) {
     this.client = new Twitter({
       consumer_key: configService.get<string>('twitter.consumer_key'), // from Twitter.
       consumer_secret: configService.get<string>('twitter.consumer_secret'), // from Twitter.
@@ -20,6 +25,49 @@ export class TwitterService {
     });
   }
 
+  async initAutohook(): Promise<boolean> {
+    const webhook = new Autohook();
+    try {
+      await webhook.removeWebhooks();
+      webhook.on('event', async (event) => {
+        if (event.direct_message_events) {
+          const oMsg = event.direct_message_events.find(
+            (el) => el.type === 'message_create',
+          );
+          if (
+            oMsg &&
+            event.users &&
+            Object.keys(event.users).length > 1 &&
+            !event.apps
+          ) {
+            const recipient_id = Object.keys(event.users)[0];
+            try {
+              const msg = oMsg.message_create.message_data.text;
+              const verse = await this.appService.searchResultCommand(
+                msg.split(':'),
+              );
+              await this.makeDirectMessage(recipient_id, verse);
+            } catch (error) {
+              console.log(error);
+            }
+          }
+        }
+      });
+      // Starts a server and adds a new webhook
+      await webhook.start();
+      await webhook.subscribe({
+        oauth_token: this.configService.get<string>('twitter.access_token_key'),
+        oauth_token_secret: this.configService.get<string>(
+          'twitter.access_token_secret',
+        ),
+      });
+      return true;
+    } catch (error) {
+      console.log(error);
+      return false;
+    }
+  }
+
   async upload(imgName: string): Promise<string> {
     const mediaType = 'image/jpeg'; // `'video/mp4'` is also supported
     const path = join(process.cwd() + '/src/assets/imgs-saints', imgName);
@@ -28,11 +76,8 @@ export class TwitterService {
 
     const media_id_string = (await this.initUpload(size, mediaType))
       .media_id_string;
-    console.log(media_id_string, 'media_id_string');
 
-    const append = await this.appendUpload(media_id_string, media);
-    console.log(append, 'append');
-
+    await this.appendUpload(media_id_string, media);
     await this.finalizeUpload(media_id_string);
     return media_id_string;
   }
@@ -87,12 +132,22 @@ export class TwitterService {
    * @param Object params    Params object to send
    * @return Promise         Rejects if response is error
    */
-  makePost(endpoint, params): Promise<any> {
+  makePost(endpoint: string, params: any): Promise<any> {
     return this.client.post(endpoint, params);
   }
 
-  get(endpoint = 'webhooks', params) {
-    return this.client.get(endpoint, params);
+  makeDirectMessage(recipient_id: string, text: string): Promise<any> {
+    return this.makePost('direct_messages/events/new', {
+      event: {
+        type: 'message_create',
+        message_create: {
+          target: { recipient_id },
+          message_data: {
+            text,
+          },
+        },
+      },
+    });
   }
 
   async makeThread(thread: Thread[]): Promise<void> {

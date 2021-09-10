@@ -14,7 +14,9 @@ export class AppController {
     private readonly twitterService: TwitterService,
     private readonly saintService: SaintService,
     private readonly quoteService: QuoteService,
-  ) {}
+  ) {
+    this.twitterService.initAutohook();
+  }
 
   // @Cron(CronExpression.EVERY_MINUTE)
   @Cron(CronExpression.EVERY_DAY_AT_10AM)
@@ -63,7 +65,7 @@ export class AppController {
         thread.unshift(firstTweet);
         const lastTweet = {
           status: `Les commentaires des évangiles ont été réalisé par de nombreux prêtres.
-Pour plus d'informations : https://evangeli.net/evangile/quoi-evangeli`,
+  Pour plus d'informations : https://evangeli.net/evangile/quoi-evangeli`,
           media: '',
         };
         thread.push(lastTweet);

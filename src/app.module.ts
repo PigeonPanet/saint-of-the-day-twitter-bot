@@ -11,6 +11,8 @@ import { SaintService } from './services/saint/saint.service';
 import { QuoteService } from './services/quote/quote.service';
 import { HttpModule } from '@nestjs/axios';
 import { TwitterService } from './services/twitter/twitter.service';
+import { Verse, VerseSchema } from './schemas/verses.schema';
+import { VerseService } from './services/verse/verse.service';
 
 @Module({
   imports: [
@@ -22,10 +24,17 @@ import { TwitterService } from './services/twitter/twitter.service';
     MongooseModule.forFeature([
       { name: Saint.name, schema: SaintSchema },
       { name: Quote.name, schema: QuoteSchema },
+      { name: Verse.name, schema: VerseSchema },
     ]),
     HttpModule,
   ],
   controllers: [AppController],
-  providers: [AppService, TwitterService, SaintService, QuoteService],
+  providers: [
+    AppService,
+    TwitterService,
+    SaintService,
+    QuoteService,
+    VerseService,
+  ],
 })
 export class AppModule {}
