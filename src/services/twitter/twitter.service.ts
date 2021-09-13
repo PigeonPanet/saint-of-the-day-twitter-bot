@@ -29,32 +29,7 @@ export class TwitterService {
     const webhook = new Autohook();
     try {
       await webhook.removeWebhooks();
-      webhook.on('event', async (event) => {
-        if (event.direct_message_events) {
-          const oMsg = event.direct_message_events.find(
-            (el) => el.type === 'message_create',
-          );
-          if (
-            oMsg &&
-            event.users &&
-            Object.keys(event.users).length > 1 &&
-            !event.apps
-          ) {
-            const recipient_id = Object.keys(event.users)[0];
-            try {
-              const msg = oMsg.message_create.message_data.text;
-              const verse = await this.appService.searchResultCommand(
-                msg.split(':'),
-              );
-              if (verse) {
-                await this.makeDirectMessage(recipient_id, verse);
-              }
-            } catch (error) {
-              console.log(error);
-            }
-          }
-        }
-      });
+      webhook.on('event', async (event) => this.sendDirectMessage(event));
       // Starts a server and adds a new webhook
       await webhook.start();
       await webhook.subscribe({
@@ -68,6 +43,49 @@ export class TwitterService {
       console.log(error);
       return false;
     }
+  }
+
+  async indicateTyping(recipient_id: string) {
+    const requestConfig = { recipient_id };
+    return this.makePost('direct_messages/indicate_typing', requestConfig);
+  }
+
+  async sendDirectMessage(event) {
+    if (!event.direct_message_events) {
+      return;
+    }
+    const message = event.direct_message_events.shift();
+    if (
+      typeof message === 'undefined' ||
+      typeof message.message_create === 'undefined'
+    ) {
+      return;
+    }
+    // We filter out message you send, to avoid an infinite loop
+    if (
+      message.message_create.sender_id ===
+      message.message_create.target.recipient_id
+    ) {
+      return;
+    }
+    try {
+      const sender_id = message.message_create.sender_id;
+      const msg = message.message_create.message_data.text;
+      await this.markAsRead(message.id, sender_id);
+      const verse = await this.appService.searchResultCommand(msg.split(':'));
+      if (verse) {
+        await this.makeDirectMessage(sender_id, verse);
+      }
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  async markAsRead(last_read_event_id: string, recipient_id: string) {
+    return await this.makePost('direct_messages/mark_read', {
+      last_read_event_id,
+      recipient_id,
+    });
   }
 
   async upload(imgName: string): Promise<string> {
